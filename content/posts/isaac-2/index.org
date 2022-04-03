@@ -57,12 +57,11 @@ The Kitchen is a room.
 Drawer is a container in The Kitchen. Drawer is openable and fixed in place. Drawer is closed.
 
 Spoon is a thing inside Drawer. The description of spoon is "A shiny spoon, you can see your reflection in the back."
-
 #+end_src
 
 This is as simple as code gets, it's almost as if you're having a
 conversation with your computer and describing your game to it. Inform
-also has a great community who have made plugins for it which allow you
+also has a great community that has made plugins for it which allow you
 to save quite a lot of time. For this game, I used the "Conversation
 Framework" plugin by Eric Eve to make dialogue very easy to set up.
 Through inform I was able to put my thoughts and ideas into a playable
