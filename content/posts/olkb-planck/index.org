@@ -1,5 +1,5 @@
 #+title: My OLKB Planck Keyboard
-#+date: 2022-04-07
+#+date: 2022-04-11
 #+toc: true
 
 A few years ago, after deciding to build my own mechanical keyboard and
@@ -89,8 +89,8 @@ shift keys and I can type uppercase letters.
 This is a QWERTY layer I have just in case, which I access by pressing
 =MO(4)= and then the spacebar. The only difference is in the alphas
 since all the modifiers and other keys have the =KC_TRNS= code which
-makes them transparent to QMK and inherits the keycode of the next layer
-below them.
+makes them transparent to QMK so they inherit the keycode of the next
+layer below them.
 
 ** Layer 2
 
