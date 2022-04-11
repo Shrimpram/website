@@ -9,4 +9,3 @@ publish: build
 
 serve:
 	hugo serve
-
