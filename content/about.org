@@ -9,3 +9,4 @@ You can contact me at shreeram.modi{at}{university}.edu or at
 shreerammodi10{at}{the google mail service}. ([[../pgp][pgp]])
 
 - [[https://raw.githubusercontent.com/Shrimpram/resume/master/shreeram_modi.pdf][Resume]]
+- [[https://www.linkedin.com/in/shreeram-modi][Linkedin]]
