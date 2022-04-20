@@ -5,7 +5,7 @@ politics. I also created and manage the
 [[https://github.com/shrimpram/stella][Stella colorscheme]] (which this
 site uses).
 
-You can contact me at shreeram.modi(at)(university).edu or at
-shreerammodi10(at)(the google mail service) ([[../pgp][pgp]])
+You can contact me at shreeram.modi{at}{university}.edu or at
+shreerammodi10{at}{the google mail service}. ([[../pgp][pgp]])
 
 - [[https://raw.githubusercontent.com/Shrimpram/resume/master/shreeram_modi.pdf][Resume]]
