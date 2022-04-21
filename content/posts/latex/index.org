@@ -1,4 +1,0 @@
-#+title: Isaac 2
-#+date: 2020-09-12
-#+toc: true
-
