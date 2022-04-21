@@ -1,0 +1,11 @@
+[list]
+
+  [list.isaac2]
+    name = "Isaac 2"
+    url = "https://github.com/shrimpram/isaac2"
+    desc = "A text adventure game made using Inform 7"
+
+  [list.stella]
+    name = "Stella"
+    url = "https://github.com/shrimpram/stella"
+    desc = "A colorscheme I designed and maintain"
