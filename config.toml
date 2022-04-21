@@ -54,6 +54,7 @@ weight = 4
   My personal website.
   '''
   mainSection = "posts"
+  mainSectionTitle = "Posts"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true
