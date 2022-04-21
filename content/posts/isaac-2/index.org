@@ -3,7 +3,7 @@
 #+toc: true
 
 #+caption: The LA Noire cover art with Mr. Pallone's face photoshopped over the protagonist's
-[[file:isaac-2-poster.png]]
+[[file:../resources/isaac-2/isaac-2-poster.png]]
 
 Isaac 2 is a text adventure game I worked on over the summer of 2020. I
 originally got the idea to make a text adventure game after playing

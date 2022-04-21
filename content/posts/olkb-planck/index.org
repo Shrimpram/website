@@ -70,7 +70,7 @@ file)]].
 
 ** Layer 0
 
-[[file:layer-0.png]]
+[[file:../resources/olkb-planck/layer-0.png]]
 
 This is the default Colemak layer. The bottom row has modifier keys as
 well as the different layer keys to change between layers. There is a
@@ -84,7 +84,7 @@ shift keys and I can type uppercase letters.
 
 ** Layer 1
 
-[[file:layer-1.png]]
+[[file:../resources/olkb-planck/layer-1.png]]
 
 This is a QWERTY layer I have just in case, which I access by pressing
 =MO(4)= and then the spacebar. The only difference is in the alphas
@@ -94,7 +94,7 @@ layer below them.
 
 ** Layer 2
 
-[[file:layer-2.png]]
+[[file:../resources/olkb-planck/layer-2.png]]
 
 This is a function and numpad layer. I opted for a numpad instead of a
 number row since at the time I was taking an accounting class and having
@@ -106,7 +106,7 @@ the numpad.
 
 ** Layer 3
 
-[[file:layer-3.png]]
+[[file:../resources/olkb-planck/layer-3.png]]
 
 This layer is an extension of layer 2 with symbols instead of
 numbers/f-keys. It also has some other miscellaneous useful keys such as
@@ -116,7 +116,7 @@ next to the spacebar.
 
 ** Layer 4
 
-[[file:layer-4.png]]
+[[file:../resources/olkb-planck/layer-4.png]]
 
 This layer has all my media controls as well as the toggle between
 Colemak and QWERTY.
