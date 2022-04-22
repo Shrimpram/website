@@ -1,4 +1,4 @@
-#+title: My OLKB Planck Keyboard
+#+title: The 40% Colemak Planck
 #+date: 2022-04-11
 #+toc: true
 
