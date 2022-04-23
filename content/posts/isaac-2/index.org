@@ -35,22 +35,20 @@ fancy 3D graphics.
 
 * I don't know how to code
 
-After deciding that I wanted to make a text adventure, my next major
-hurdle was figuring out how to actually make one. The last game I
-made--The Birth of Isaac--was made using RPG maker
-[[https://www.rpgmakerweb.com][MV]], a  software that let you make RPG
-games without needing to know code. I still didn't know how to code so I
-would have to find another such software. I looked through dozens of
-bloated programs with UI that reminded me of games I would rent from the
-library until finally I settled on [[http://inform7.com][Inform 7]].
+After deciding that I wanted to make a text adventure, my next major hurdle was
+figuring out how to actually make one. The last game I made--The Birth of
+Isaac--was made using [[https://www.rpgmakerweb.com][RPG Maker MV]], a program
+that let you make RPG games without needing to know code. I still didn't know
+how to code so I would have to find another such program. I looked through
+dozens of bloated programs with UIs that reminded me of games I would rent from
+my library until finally I settled on [[http://inform7.com][Inform 7]].
 
-Inform 7 isn't so much a program as it is a language. Specifically, what
-Inform does is let you "program" text adventure games using the English
-language. Instead of setting up a bunch of complex variables, you simply
-write out what you want to happen in English and Inform processes it
-into a playable output. For example, say you wanted there to be a
-Kitchen with a spoon inside a drawer the player could open. You would
-simply write
+Inform 7 isn't so much a program as it is a language. Specifically, what Inform
+does is let you "program" text adventure games using the English language as
+syntax. Instead of setting up a bunch of complex variables, you simply write
+out what you want to happen in English and Inform processes it into playable
+output. For example, say you wanted there to be a Kitchen with a spoon inside a
+drawer the player could open. You would simply write
 
 #+begin_src
 The Kitchen is a room.
