@@ -1,6 +1,7 @@
 #+title: Isaac 2
 #+date: 2020-09-12
 #+toc: true
+#+tags[]: tech games
 
 #+caption: The LA Noire cover art with Mr. Pallone's face photoshopped over the protagonist's
 [[file:../resources/isaac-2/isaac-2-poster.png]]
