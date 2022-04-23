@@ -3,6 +3,10 @@
 This page will be kept up to date with my latest pgp public key. You can
 download the key
 [[https://gist.github.com/Shrimpram/9c75268e25eae09e2dcaac0373767c16/archive/5c2adbf7117835dbb387bf475d49297c6bd88940.zip][here]].
+To directly import the key, you can run this command:
+#+begin_src bash
+curl -s https://gist.githubusercontent.com/Shrimpram/9c75268e25eae09e2dcaac0373767c16/raw/5c2adbf7117835dbb387bf475d49297c6bd88940/pubkey.asc | gpg --import
+#+end_src
 
 Fingerprint: =EA88 EA07 26E9 6CBF 6365  3966 163B 16EE 76ED 24CE=
 
