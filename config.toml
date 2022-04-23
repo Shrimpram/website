@@ -57,7 +57,7 @@ weight = 4
   mainSectionTitle = "Posts"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true
+  tagsOverview = false
   showProjectsList = true
   projectsUrl = "https://github.com/shrimpram"
 
