@@ -6,7 +6,9 @@
 A few years ago, after deciding to build my own mechanical keyboard and
 shopping around for a while attempting the near impossible task of
 choosing one build from the infinite combinations of parts available, I
-finally chose to build an [[https://olkb.com/collections/planck][OLKB Planck]].
+finally chose to build an [[https://olkb.com/collections/planck][OLKB
+Planck]]. This post explains the thoughts that went into building it as
+well as the parts used and layouts.
 
 * The Motive
 
