@@ -56,7 +56,7 @@ it wouldn't have a case, just a bottom plate.
 - [[https://drop.com/buy/drop-mito-xda-canvas-keycap-set][Drop + Mito XDA Canvas keycaps]]
 - [[https://novelkeys.com/products/nk_-cream-series][NovelKeys Cream switches]]
 
-As for other miscellaneous stuff I lubed and filmed the switches myself,
+As for other miscellaneous stuff I filmed and lubed the switches myself,
 which for my first time ever building a keyboard let alone modding
 switches turned out better than expected.
 
